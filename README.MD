@@ -1,4 +1,4 @@
-#PYTHON PROJECT
+# PYTHON PROJECT
 
 This project is a simple, menu-driven Python application for managing patient health records using file storage and dictionaries. The system allows users to add, view, and manage patient visit data including vital signs like temperature, heart rate, respiratory rate, blood pressure, and oxygen saturation.
 
